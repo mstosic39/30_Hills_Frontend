@@ -1,0 +1,19 @@
+#group_list{
+	margin-top: 2%;
+}
+
+
+#direct_friends{
+	margin:2% 10%;
+	float: left;
+}
+
+#friends_of_friends{
+	margin:2% 10%;
+	float: left;
+}
+
+#suggested_friends{
+	margin:2% 10%;
+	float: left;
+}
